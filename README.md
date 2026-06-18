@@ -10,4 +10,4 @@ For support, questions or feedback, please contact us via email:
 
 You may view the Fibonacci Merge Privacy Policy here:
 
-[Fibonacci Merge Privacy Policy](https://sites.google.com/view/fibonaccimerge-privacy-policy/ana-sayfa)
+[Fibonacci Merge Privacy Policy](https://sites.google.com/view/fibonaccimerge-privacy-policy/)
